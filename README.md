@@ -8,7 +8,7 @@ Original idea [Andrewnoske PanoramaViewer](http://www.andrewnoske.com/wiki/Unity
 * Generate a procedural sphere (normal inverted) with custom radius (ex: 20) ( Menu > GameObject > Insert Other > Inverted Sphere... )
 * Use equirectangular.shader as sphere's material
 
-Essential source file [Dropwizard](https://gist.github.com/tolotratlt/70e8a3790cfb1839a21587d70dd2fda2)
+Essential source file [InvertedSphere](https://gist.github.com/tolotratlt/70e8a3790cfb1839a21587d70dd2fda2)
 
 
 ### Notes
